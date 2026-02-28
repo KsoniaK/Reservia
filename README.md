@@ -1,6 +1,18 @@
-<h1>Projet RESERVIA : Transformer une maquette en site web</h1>
+# Reservia : Transformer une maquette en site web
 
-<strong>PDF Présentation du projet : https://github.com/KsoniaK/SoniaKechit_3_29062021/files/7072686/P2_03_presentation.pdf</strong>
+Reservia est une petite entreprise qui propose:
 
-<strong>Lien GitHub Pages du projet :  https://ksoniak.github.io/SoniaKechit_2_26052021/</strong>
->>>>>>> 6929750d33bcf82f97869cd513b8af5c7dfdc620
+- Un outil de planification de vacances,
+- De trouver des hébergements et des activités dans une zone définie,
+- De filtrer les hébergements par thématique ( exemple: budget, ambiance ).
+
+L’ entreprise décide de réaliser un prototype. La première étape consiste à intégrer la maquette responsive en HTML et CSS. Voici donc la tâche qui m’a été attribuée !
+
+## Technologies
+
+- HTML
+- CSS
+
+## GitHub Pages
+
+https://ksoniak.github.io/Reservia/
