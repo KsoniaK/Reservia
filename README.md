@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/img/logo/Reservia@3x.png" alt="Logo Réservia" width="100">
+</p>
+
 # Reservia : Transformer une maquette en site web
 
 Reservia est une petite entreprise qui propose:
